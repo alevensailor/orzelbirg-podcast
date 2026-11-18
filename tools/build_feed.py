@@ -30,7 +30,7 @@ for e in eps:
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>""")
-    rows.append(f"""<section><h2>{html.escape(t)}</h2><p class="by">{html.escape(e["by"])} · {int(dur//60)} min</p><p>{html.escape(e["desc"])}</p><audio controls preload="none" src="episodes/{e["file"]}"></audio></section>""")
+    rows.append(f"""<section id="ep{e["n"]}"><h2>{html.escape(t)}</h2><p class="by">{html.escape(e["by"])} · {int(dur//60)} min</p><p>{html.escape(e["desc"])}</p><audio controls preload="none" src="episodes/{e["file"]}"></audio></section>""")
 feed = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>

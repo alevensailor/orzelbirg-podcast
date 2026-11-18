@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>The Barons of Orzelbirg</title>
+  <link>https://alevensailor.github.io/orzelbirg-podcast/</link>
+  <atom:link href="https://alevensailor.github.io/orzelbirg-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en</language>
+  <description>The players&#x27; podcast for the Irregulars: the barony&#x27;s rules, lore and people, some of it read by the court itself.</description>
+  <itunes:summary>The players&#x27; podcast for the Irregulars: the barony&#x27;s rules, lore and people, some of it read by the court itself.</itunes:summary>
+  <itunes:author>The Irregulars</itunes:author>
+  <itunes:type>serial</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://alevensailor.github.io/orzelbirg-podcast/cover.jpg"/>
+  <image><url>https://alevensailor.github.io/orzelbirg-podcast/cover.jpg</url><title>The Barons of Orzelbirg</title><link>https://alevensailor.github.io/orzelbirg-podcast/</link></image>
+  <itunes:category text="Leisure"><itunes:category text="Games"/></itunes:category>
+  <item>
+    <title>1. The Book So Far</title>
+    <description>Read by Emeryk Lis, Clerk of the Court. The Clerk reads the Book of Orzelbirg from its first page: the road that brought you here, the First Court, and the night on the Pale Road.</description>
+    <itunes:summary>Read by Emeryk Lis, Clerk of the Court. The Clerk reads the Book of Orzelbirg from its first page: the road that brought you here, the First Court, and the night on the Pale Road.</itunes:summary>
+    <enclosure url="https://alevensailor.github.io/orzelbirg-podcast/episodes/01-the-book-so-far.mp3" length="5075113" type="audio/mpeg"/>
+    <guid isPermaLink="false">orzelbirg-podcast-01</guid>
+    <pubDate>Tue, 17 Nov 2026 12:01:00 +0000</pubDate>
+    <itunes:duration>634</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>2. The Barony&#x27;s Sheet</title>
+    <description>The rules, plainly. What&#x27;s on the Barony&#x27;s Sheet: the barony&#x27;s skills, defenses and tracks, and the table&#x27;s rulings.</description>
+    <itunes:summary>The rules, plainly. What&#x27;s on the Barony&#x27;s Sheet: the barony&#x27;s skills, defenses and tracks, and the table&#x27;s rulings.</itunes:summary>
+    <enclosure url="https://alevensailor.github.io/orzelbirg-podcast/episodes/02-the-baronys-sheet.mp3" length="3873480" type="audio/mpeg"/>
+    <guid isPermaLink="false">orzelbirg-podcast-02</guid>
+    <pubDate>Tue, 17 Nov 2026 12:02:00 +0000</pubDate>
+    <itunes:duration>484</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>5. How Morgau Answers</title>
+    <description>The rules, plainly. Exposure and Honor: how Morgau squeezes a barony that defies it, and what the Crown and the Slahta say of you.</description>
+    <itunes:summary>The rules, plainly. Exposure and Honor: how Morgau squeezes a barony that defies it, and what the Crown and the Slahta say of you.</itunes:summary>
+    <enclosure url="https://alevensailor.github.io/orzelbirg-podcast/episodes/05-how-morgau-answers.mp3" length="3509438" type="audio/mpeg"/>
+    <guid isPermaLink="false">orzelbirg-podcast-05</guid>
+    <pubDate>Tue, 17 Nov 2026 12:05:00 +0000</pubDate>
+    <itunes:duration>439</itunes:duration>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>6. The Old Law</title>
+    <description>Told by Sister Aniela Radosz, counsel to the court. Sister Aniela reads the Statutes of Krakova, with the notes she keeps in the margins.</description>
+    <itunes:summary>Told by Sister Aniela Radosz, counsel to the court. Sister Aniela reads the Statutes of Krakova, with the notes she keeps in the margins.</itunes:summary>
+    <enclosure url="https://alevensailor.github.io/orzelbirg-podcast/episodes/06-the-old-law.mp3" length="8724315" type="audio/mpeg"/>
+    <guid isPermaLink="false">orzelbirg-podcast-06</guid>
+    <pubDate>Tue, 17 Nov 2026 12:06:00 +0000</pubDate>
+    <itunes:duration>1091</itunes:duration>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>7. Your Seat and Your Voice</title>
+    <description>The rules, plainly. The offices of the court, and how negotiation works.</description>
+    <itunes:summary>The rules, plainly. The offices of the court, and how negotiation works.</itunes:summary>
+    <enclosure url="https://alevensailor.github.io/orzelbirg-podcast/episodes/07-your-seat-and-your-voice.mp3" length="5074277" type="audio/mpeg"/>
+    <guid isPermaLink="false">orzelbirg-podcast-07</guid>
+    <pubDate>Tue, 17 Nov 2026 12:07:00 +0000</pubDate>
+    <itunes:duration>634</itunes:duration>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>8. Names at the High Table</title>
+    <description>Read by Emeryk Lis, Clerk of the Court. The Clerk reads the roll: who&#x27;s who in Orzelbirg, how to say their names, and the calendar.</description>
+    <itunes:summary>Read by Emeryk Lis, Clerk of the Court. The Clerk reads the roll: who&#x27;s who in Orzelbirg, how to say their names, and the calendar.</itunes:summary>
+    <enclosure url="https://alevensailor.github.io/orzelbirg-podcast/episodes/08-names-at-the-high-table.mp3" length="4940112" type="audio/mpeg"/>
+    <guid isPermaLink="false">orzelbirg-podcast-08</guid>
+    <pubDate>Tue, 17 Nov 2026 12:08:00 +0000</pubDate>
+    <itunes:duration>617</itunes:duration>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>9. Empire of the Ghouls</title>
+    <description>The road that led to Orzelbirg. The whole Empire of the Ghouls campaign in one place, as your table played it.</description>
+    <itunes:summary>The road that led to Orzelbirg. The whole Empire of the Ghouls campaign in one place, as your table played it.</itunes:summary>
+    <enclosure url="https://alevensailor.github.io/orzelbirg-podcast/episodes/09-empire-of-the-ghouls.mp3" length="5204053" type="audio/mpeg"/>
+    <guid isPermaLink="false">orzelbirg-podcast-09</guid>
+    <pubDate>Tue, 17 Nov 2026 12:09:00 +0000</pubDate>
+    <itunes:duration>650</itunes:duration>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

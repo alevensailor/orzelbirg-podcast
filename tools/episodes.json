@@ -11,14 +11,14 @@
   "file": "02-the-baronys-sheet.mp3",
   "title": "The Barony's Sheet",
   "by": "The rules, plainly",
-  "desc": "What's on the Barony's Sheet: the barony's skills, defenses and tracks, and the table's rulings."
+  "desc": "What's on the Barony's Sheet: the barony's skills, defenses and tracks, the power dice, the Clerk's other books, and the table's rulings."
  },
  {
   "n": 3,
   "file": "03-the-baronys-week.mp3",
   "title": "The Barony's Week",
   "by": "The rules, plainly",
-  "desc": "How the barony gets things done between games: foundations, the five moves, and calling the barony to arms."
+  "desc": "How the barony gets things done between games: the five moves, whose turn, the first slate, and calling the barony to arms."
  },
  {
   "n": 4,
@@ -44,9 +44,9 @@
  {
   "n": 7,
   "file": "07-your-seat-and-your-voice.mp3",
-  "title": "Your Seat and Your Voice",
+  "title": "Your Seat",
   "by": "The rules, plainly",
-  "desc": "The offices of the court, and how negotiation works."
+  "desc": "The offices of the court: each seat's duty in court, its title, its insignia, and the barony work it leads."
  },
  {
   "n": 8,

@@ -121,5 +121,17 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+  <item>
+    <title>10. The Ear&#x27;s Network</title>
+    <description>The rules, plainly. How the Ear&#x27;s office works: dossiers, strands, the Ear&#x27;s question, and the dossiers the other side keeps on you.</description>
+    <itunes:summary>The rules, plainly. How the Ear&#x27;s office works: dossiers, strands, the Ear&#x27;s question, and the dossiers the other side keeps on you.</itunes:summary>
+    <enclosure url="https://alevensailor.github.io/orzelbirg-podcast/episodes/10-the-ears-network.mp3" length="5478765" type="audio/mpeg"/>
+    <guid isPermaLink="false">orzelbirg-podcast-10</guid>
+    <pubDate>Tue, 17 Nov 2026 12:10:00 +0000</pubDate>
+    <itunes:duration>685</itunes:duration>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>

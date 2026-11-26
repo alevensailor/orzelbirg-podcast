@@ -133,5 +133,17 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+  <item>
+    <title>11. Your Voice: How Negotiation Works</title>
+    <description>The rules, plainly. Negotiation scenes: the two tracks, drives, your moves and what they cost, prep and leverage, and magic at the table.</description>
+    <itunes:summary>The rules, plainly. Negotiation scenes: the two tracks, drives, your moves and what they cost, prep and leverage, and magic at the table.</itunes:summary>
+    <enclosure url="https://alevensailor.github.io/orzelbirg-podcast/episodes/11-your-voice.mp3" length="5585325" type="audio/mpeg"/>
+    <guid isPermaLink="false">orzelbirg-podcast-11</guid>
+    <pubDate>Tue, 17 Nov 2026 12:11:00 +0000</pubDate>
+    <itunes:duration>698</itunes:duration>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
